@@ -1,0 +1,95 @@
+{
+    "pizzas": [
+      {
+        "name": "Margherita",
+        "ingredients": ["Tomato sauce", "Mozzarella cheese", "Basil"],
+        "price": 10,
+        "image": "margherita.jpg"
+      },
+      {
+        "name": "Quattro Formaggi",
+        "ingredients": ["Tomato sauce", "Mozzarella cheese", "Gorgonzola cheese", "Parmesan cheese", "Fontina cheese"],
+        "price": 10,
+        "image": "margherita.jpg"
+      },
+      {
+        "name": "Prosciutto e Funghi",
+        "ingredients": ["Tomato sauce", "Mozzarella cheese", "Ham", "Mushrooms"],
+        "price": 10,
+        "image": "margherita.jpg"
+      },
+      {
+        "name": "Capricciosa",
+        "ingredients": ["Tomato sauce", "Mozzarella cheese", "Ham", "Mushrooms", "Artichokes", "Black olives"],
+        "price": 10,
+        "image": "margherita.jpg"
+      },
+      {
+        "name": "Diavola",
+        "ingredients": ["Tomato sauce", "Mozzarella cheese", "Spicy salami", "Chili flakes"],
+        "price": 10,
+        "image": "margherita.jpg"
+      },
+      {
+        "name": "Quattro Stagioni",
+        "ingredients": ["Tomato sauce", "Mozzarella cheese", "Ham", "Mushrooms", "Artichokes", "Black olives", "Egg"],
+        "price": 10,
+        "image": "margherita.jpg"
+      },
+      {
+        "name": "Marinara",
+        "ingredients": ["Tomato sauce", "Garlic", "Oregano"],
+        "price": 10,
+        "image": "margherita.jpg"
+      },
+      {
+        "name": "Napoletana",
+        "ingredients": ["Tomato sauce", "Mozzarella cheese", "Anchovies", "Garlic", "Oregano"],
+        "price": 10,
+        "image": "margherita.jpg"
+      },
+      {
+        "name": "Bianca",
+        "ingredients": ["Mozzarella cheese", "Ricotta cheese", "Parmesan cheese", "Garlic"],
+        "price": 10,
+        "image": "margherita.jpg"
+      },
+      {
+        "name": "Tonno e Cipolla",
+        "ingredients": ["Tomato sauce", "Mozzarella cheese", "Tuna", "Onions"],
+        "price": 10,
+        "image": "margherita.jpg"
+      },
+      {
+        "name": "Romana",
+        "ingredients": ["Tomato sauce", "Mozzarella cheese", "Anchovies", "Oregano"],
+        "price": 10,
+        "image": "margherita.jpg"
+      },
+      {
+        "name": "Bufala",
+        "ingredients": ["Tomato sauce", "Buffalo mozzarella cheese", "Basil"],
+        "price": 10,
+        "image": "margherita.jpg"
+      },
+      {
+        "name": "Calzone",
+        "ingredients": ["Tomato sauce", "Mozzarella cheese", "Ham", "Mushrooms", "Ricotta cheese"],
+        "price": 10,
+        "image": "margherita.jpg"
+      },
+      {
+        "name": "Pesto",
+        "ingredients": ["Pesto sauce", "Mozzarella cheese", "Cherry tomatoes", "Parmesan cheese"],
+        "price": 10,
+        "image": "margherita.jpg"
+      },
+      {
+        "name": "Siciliana",
+        "ingredients": ["Tomato sauce", "Mozzarella cheese", "Anchovies", "Olives", "Capers"],
+        "price": 10,
+        "image": "margherita.jpg"
+      }
+    ]
+  }
+  
