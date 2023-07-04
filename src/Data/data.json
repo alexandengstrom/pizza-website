@@ -10,31 +10,31 @@
         "name": "Quattro Formaggi",
         "ingredients": ["Tomato sauce", "Mozzarella cheese", "Gorgonzola cheese", "Parmesan cheese", "Fontina cheese"],
         "price": 10,
-        "image": "margherita.jpg"
+        "image": "quattroformaggi.jpg"
       },
       {
         "name": "Prosciutto e Funghi",
         "ingredients": ["Tomato sauce", "Mozzarella cheese", "Ham", "Mushrooms"],
         "price": 10,
-        "image": "margherita.jpg"
+        "image": "prosciuttoefunghi.jpg"
       },
       {
         "name": "Capricciosa",
         "ingredients": ["Tomato sauce", "Mozzarella cheese", "Ham", "Mushrooms", "Artichokes", "Black olives"],
         "price": 10,
-        "image": "margherita.jpg"
+        "image": "capricciosa.jpg"
       },
       {
         "name": "Diavola",
         "ingredients": ["Tomato sauce", "Mozzarella cheese", "Spicy salami", "Chili flakes"],
         "price": 10,
-        "image": "margherita.jpg"
+        "image": "diavola.jpg"
       },
       {
         "name": "Quattro Stagioni",
         "ingredients": ["Tomato sauce", "Mozzarella cheese", "Ham", "Mushrooms", "Artichokes", "Black olives", "Egg"],
         "price": 10,
-        "image": "margherita.jpg"
+        "image": "quattrostagioni.jpg"
       },
       {
         "name": "Marinara",

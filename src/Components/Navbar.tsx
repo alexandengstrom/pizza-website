@@ -9,7 +9,6 @@ function Navbar() {
         navRef.current?.classList.toggle("responsive-nav"); 
     }
 
-    showNavbar()
 
     return (
         <>

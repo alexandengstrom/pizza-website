@@ -10,6 +10,7 @@ import BeerImage from "../Images/beer.jpg"
 function Home() {
     return (
         <>
+        <div>
         <PictureBox 
         image={pizzasImage}
         content={<ShortDescription />}
@@ -25,6 +26,7 @@ function Home() {
         content={<BeerDescription />} 
         left={true}
         />
+        </div>
         </>
     )
 }

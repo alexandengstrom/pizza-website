@@ -12,7 +12,7 @@ function Pizza({ name, ingredients, price, image }: Props) {
                     <img className="pizza-image" src={"/PizzaImages/" + image} alt="Image" />
                     <div className="pizza-info">
                     <h3>{name}</h3>
-                    <p key="ingredients">{ingredients.join(", ")}</p>
+                    <i><p key="ingredients">{ingredients.join(", ")}</p></i>
                     <h4>Price: €{price}</h4>
                     </div>
                 </div>
