@@ -115,7 +115,7 @@ nav {
 nav a {
     font-size: 1.8rem;
     padding: 2rem;
-    color: var(--thirdColor)
+    color: var(--textColor)
 }
 
 nav a:hover {
