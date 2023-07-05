@@ -1,4 +1,3 @@
-import React from 'react';
 import jsonData from '../Data/data.json';
 import Pizza from "../Components/Pizza"
 import AllergiesWarning from '../Components/AllergiesWarning';
