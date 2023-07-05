@@ -1,6 +1,9 @@
 import React from 'react';
 import jsonData from '../Data/data.json';
 import Pizza from "../Components/Pizza"
+import AllergiesWarning from '../Components/AllergiesWarning';
+
+
 
 interface PizzaUnpacked {
     name: string;
@@ -14,7 +17,10 @@ function Menu() {
 
     return (
         <>
+        <div>
+        <AllergiesWarning />
         <div className="pizza-container">
+
             {pizzas.map((pizza: PizzaUnpacked) => (
               <Pizza 
               name={pizza.name} 
@@ -23,6 +29,7 @@ function Menu() {
               image={pizza.image}/>
 
             ))}
+        </div>
         </div>
         </>
     );

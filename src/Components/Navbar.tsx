@@ -9,6 +9,7 @@ function Navbar() {
         navRef.current?.classList.toggle("responsive-nav"); 
     }
 
+    showNavbar()
 
     return (
         <>
@@ -17,7 +18,7 @@ function Navbar() {
             <nav ref={navRef}>
                 <Link to="/" onClick={showNavbar}>Home</Link>
                 <Link to="/menu" onClick={showNavbar}>Menu</Link>
-                <Link to="/about" onClick={showNavbar}>About us</Link>
+                <Link to="/book" onClick={showNavbar}>Book</Link>
                 <Link to="/contact" onClick={showNavbar}>Contact</Link>
                 <button className="nav-btn nav-close-btn" onClick={showNavbar}>
                     <FaTimes />

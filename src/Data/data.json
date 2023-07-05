@@ -40,19 +40,19 @@
         "name": "Marinara",
         "ingredients": ["Tomato sauce", "Garlic", "Oregano"],
         "price": 10,
-        "image": "margherita.jpg"
+        "image": "marinara.jpg"
       },
       {
         "name": "Napoletana",
         "ingredients": ["Tomato sauce", "Mozzarella cheese", "Anchovies", "Garlic", "Oregano"],
         "price": 10,
-        "image": "margherita.jpg"
+        "image": "napoletana.jpg"
       },
       {
         "name": "Bianca",
         "ingredients": ["Mozzarella cheese", "Ricotta cheese", "Parmesan cheese", "Garlic"],
         "price": 10,
-        "image": "margherita.jpg"
+        "image": "bianca.jpg"
       },
       {
         "name": "Tonno e Cipolla",
@@ -64,25 +64,25 @@
         "name": "Romana",
         "ingredients": ["Tomato sauce", "Mozzarella cheese", "Anchovies", "Oregano"],
         "price": 10,
-        "image": "margherita.jpg"
+        "image": "quattrostagioni.jpg"
       },
       {
         "name": "Bufala",
         "ingredients": ["Tomato sauce", "Buffalo mozzarella cheese", "Basil"],
         "price": 10,
-        "image": "margherita.jpg"
+        "image": "prosciuttoefunghi.jpg"
       },
       {
         "name": "Calzone",
         "ingredients": ["Tomato sauce", "Mozzarella cheese", "Ham", "Mushrooms", "Ricotta cheese"],
         "price": 10,
-        "image": "margherita.jpg"
+        "image": "bianca.jpg"
       },
       {
         "name": "Pesto",
         "ingredients": ["Pesto sauce", "Mozzarella cheese", "Cherry tomatoes", "Parmesan cheese"],
         "price": 10,
-        "image": "margherita.jpg"
+        "image": "capricciosa.jpg"
       },
       {
         "name": "Siciliana",
