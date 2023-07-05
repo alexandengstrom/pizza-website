@@ -2,8 +2,8 @@ import Calender from "react-calendar"
 import "react-calendar/dist/Calendar.css"
 import { useState } from "react"
 import ContactForm from "../Components/ContactForm"
-import image from "../Images/pizzas.jpg"
 import BookingPolicy from "../Components/BookingPolicy"
+import { Value } from "react-calendar/dist/cjs/shared/types"
 
 interface BookingSlot {
     time: string,
@@ -50,8 +50,8 @@ function Book() {
     const [selectedDate, setSelectedDate] = useState<Date>(new Date())
     const [selectedTime, setSelectedTime] = useState<string>("");
 
-    const handleDateChange = (date: Date) => {
-        setSelectedDate(date)
+    const handleDateChange = (date: Value, _event: React.MouseEvent<HTMLButtonElement, MouseEvent>) => {
+        setSelectedDate(date as Date)
         setSelectedTime("")
     }
 
