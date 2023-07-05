@@ -1,6 +1,5 @@
 import PictureBox from "../Components/PictureBox"
 import ShortDescription from "../Components/ShortDescription"
-import PictureBoxText from "../Components/ShortDescription"
 import WineDescription from "../Components/WineDescription"
 import BeerDescription from "../Components/BeerDescription"
 import pizzasImage from "../Images/pizzas.jpg"
